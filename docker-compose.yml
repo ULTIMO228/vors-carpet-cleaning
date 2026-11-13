@@ -1,3 +1,5 @@
+name: vors
+
 services:
   db:
     image: mysql:8.4
