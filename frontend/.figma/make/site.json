@@ -1,0 +1,10 @@
+{
+  "description": "Book carpet cleaning, compare independent providers, choose cleaning methods, and estimate costs based on carpet size and soil level.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
